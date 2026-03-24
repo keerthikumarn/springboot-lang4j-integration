@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: springboot-lang4j
